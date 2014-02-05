@@ -1,7 +1,7 @@
 testapp-jasmine
 ===============
 
-Jasmine test application.
+[Jasmine](http://pivotal.github.io/jasmine/) test application
 
 Semaphore commands for running the build:
 
