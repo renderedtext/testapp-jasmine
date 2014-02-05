@@ -1,4 +1,4 @@
 testapp-jasmine
 ===============
 
-Jasmine test application
+[Jasmine](http://pivotal.github.io/jasmine/) test application
